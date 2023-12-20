@@ -1,6 +1,5 @@
 <center><img src="readme\notepad.png" width=350px height=230></center>
 
-[dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 # Full Featured Notepad
 **Noxopad is a small and light notepad for windows OS**
 
