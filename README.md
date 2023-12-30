@@ -9,11 +9,11 @@ C# - .NET
 - Change Fore Color (text color)
 - Change background Color 
 - Open - Save - Print documents
-- text formant tools :
-- - Font
-- - Colors
-- Edit tools :
-- - copy - cut - paste - select all ...
+* Text format tools :
+  - Font
+  - Colors
+* Edit tools :
+   - copy - cut - paste - select all ...
 
 
 # How to use app?
