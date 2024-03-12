@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kApz1gHvPApsqpt2N2SqrZ3Ru0vAPH+3LIFUbVt4J2iHrn8L+iTCTd0cNdtFAE+TMl93bga4aFumX66TNjE57w==",
+  "dgSpecHash": "Op9ntGw/tItMzTvSPQMLANuIRL+JThWzTWYfpvW5ZWWvUmEG51QUYbITe2jzCDpPtH74yomtE1LolwQM/I8yMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Farzad\\Documents\\Projects\\GitHub\\full-featured-notepad\\NoxoPad\\NoxoPad.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Farzad\\Documents\\full-featured-notepad\\NoxoPad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farzad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Farzad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Farzad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Farzad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
