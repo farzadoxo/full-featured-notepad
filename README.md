@@ -1,4 +1,4 @@
-<center><img src="https://github.com/farzadoxo/full-featured-notepad/readme/notepad.png" width=350px height=230></center>
+<center><img src= "https://github.com/farzadoxo/full-featured-notepad/blob/master/readme%2Fnotepad.png" width=350px height=230></center>
 
 ![dotnet](https://shields.io/badge/.NET-8.0-aa36ff?style=flat&logo=dotnet)
 ![csharp](https://shields.io/badge/C%23-12.0-006f0b?style=flat&logo=csharp)
